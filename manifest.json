@@ -1,8 +1,8 @@
 {
-  "name": "Iwan Code",
-  "short_name": "iwancode",
-  "scope": "https://www.iwancode.com",
-  "start_url": "https://www.iwancode.com",
+  "name": "dRoidviDo",
+  "short_name": "droidvido",
+  "scope": "https://droidvido.blogspot.com",
+  "start_url": "https://droidvido.blogspot.com",
   "display": "standalone",
   "background_color": "#3740ff",
   "theme_color": "#2B0C93",
